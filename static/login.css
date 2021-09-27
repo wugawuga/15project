@@ -3,7 +3,7 @@
 }
 
 body{
-    background: black;
+    background: aquamarine;
 }
 
 header{
@@ -53,7 +53,7 @@ a{
     position: absolute;
     right: 0;
     top: 0;
-    background-color: black;
+    background-color: darkblue;
     z-index: 1;
 }
 
